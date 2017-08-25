@@ -1,24 +1,6 @@
-# README
+### Rails API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### gem 列表
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* graphql[https://github.com/rmosolgo/graphql-ruby]
+* jwt[https://github.com/jwt/ruby-jwt]
